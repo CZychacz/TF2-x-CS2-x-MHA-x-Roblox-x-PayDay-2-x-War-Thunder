@@ -1,0 +1,12 @@
+{
+  "format_version": "1.0",
+  "title": "Team Rumble: Global Heist",
+  "description": "Zwariowany mashup 6 gier w TF2. Włamuj się po kasę z PayDay, kupuj modyfikatory z Robloxa, walcz na zasady CS2 i wzywaj naloty z War Thunder!",
+  "host_game": "team_fortress_2",
+  "min_version": "1.2.4.0",
+  "multiplayer": {
+    "supported": true,
+    "lobby_type": "source_pawn_server"
+  },
+  "injection_method": "copy_to_root"
+}
